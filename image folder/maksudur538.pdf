@@ -1,0 +1,360 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Drack Mode</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+</head>
+<body>
+    <div class="containere">
+        <nav>
+            <img src="./portfolio_site_img/logo.png" id="logo">
+
+            <ul>
+                <li><a href="maksudur.html">Home</a></li>
+                <li><a href="./my paige/maksudur.html">About</a></li>
+                <li><a href="./poster paige/maksudur.html">Portfolio</a></li>
+                <li><a href="#">Serves</a></li>
+                <li><a href="#">Hire Me</a></li>
+            </ul>
+            <img src="./dark theme icon/moon.png" id="moon">
+        </nav>
+        <div class="templeat">
+            <div class="text">
+                <h1>I'm <strong>Kate</strong>Amelia</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Error<br> vel modi sint sit reiciendis, officiis ipsum repellat praesentium <br> aut ducimus eum porro incidunt molestias, eos deleniti nemo <br> hic. Neque, commodi?</p>
+                <button id="cv">Downlod Cv</button>
+                <i class="fa-brands fa-linkedin-in"></i>
+                <i class="fa-brands fa-behance"></i>
+                <i class="fa-solid fa-globe"></i>
+            </div>
+            <div class="vola">
+                <img src="./portfolio_site_img/pattern.png" id="pattern">
+                <img src="./portfolio_site_img/girl.png" id="girl">
+            </div>
+            
+        </div>
+        <section class="one">
+            <div>
+                <p>computer-controled digital transistor 20d with electronic advance</p>
+                <h1>Honda CBR 300R</h1>
+                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odit nostrum veniam ea itaque<br> fugiat et tenetur odio, natus mollitia labore, maiores quia tempore totam quasi? At eaque<br> veritatis dolorem officia?</p>
+            </div>
+            <div class="justifi">
+                <img src="./aboeany.jpg">
+            </div>
+        </section>
+            
+        
+        <div class="templeat">
+            
+           
+            <div class="flex" id="two">
+                <div class="mashud">
+                    <img src="./aboeany7.jpg">
+                    <h1>Ducti XDIAVEL S-73</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, consequatur nobis doloribus nam a vero ad earum quas necessitatibus repudiandae dignissimos ullam sit fugiat voluptatibus? Quidem iusto voluptas praesentium voluptatibus.</p>
+                    <button>Read More</button>
+                </div>
+                <div class="mashud">
+                    <img src="./aboeany8.jpg">
+                    <h1>Motorcycles & Scooters</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti cupiditate cum voluptatibus. Earum numquam tenetur dolorum, illum at architecto cumque est id, maxime veniam odit nobis, totam incidunt voluptatem explicabo.</p>
+                    <button>Read More</button>
+                </div>
+                <div class="mashud">
+                    <img src="./aboeany9.jpg">
+                    <h1>2021 Honda CBR500R</h1>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto, numquam amet, assumenda quia laudantium doloribus asperiores, nam sapiente repudiandae nesciunt repellat odit quod dolorem natus iste ipsum exercitationem ipsa veritatis.</p>
+                    <button>Read More</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="./scrept.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+----------------------------------------------------css----------------------------------------------------------css-------------------------------------------------
+nav ul li{
+    display: inline-block;
+    justify-content: flex-end;
+    margin-right: 40px;
+   
+}
+:root{
+    --praymary-color:#edf2fc;
+    --secondary-color:#212121;
+      
+}
+.drack-thim{
+    --praymary-color:#212121;
+    --secondary-color:#edf2fc;
+}
+ 
+nav ul{
+    flex: 1;
+    text-align: right;
+}
+nav ul li a{
+   text-decoration: none;
+   
+   
+}
+nav ul li a:hover{
+    color:var(--secondary-color);
+    transition: 1s;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+    background-color:rgb(248, 208, 133);
+    padding-left: 10px;
+    padding-right: 10px;
+    text-align: center;
+    
+    
+}
+body{
+    background-color: var(--praymary-color); 
+} 
+#logo{
+    height: 50px;
+    width: 90px;
+    
+}
+.text{
+    margin: 15% 0% 0% 10%;
+   color:var(--secondary-color)
+}
+#cv{
+    display: block;
+}
+i{
+    margin: 30px 10px 10px 10px;
+
+}
+.templeat{
+    display: flex;
+    
+}
+#pattern{
+    height: 400px;
+    width: 350px;
+    position: absolute;
+    transition:  3s;
+    
+    
+}
+#girl{
+    height: 400px;
+    width: 250px;
+   position: absolute;
+   margin: 0% 0% 0% 5%;
+   transition:  1s;
+   
+}
+#girl:hover,#pattern:hover{
+    transform: translateX(5%);
+    transform: translateX(-10%);
+}
+.vola{
+    margin-left: 90px;
+    margin-top: 6.75%;
+}
+
+#moon{
+    height: 20px;
+    width: 20px;
+    cursor: pointer;
+}
+i{
+    color: aqua;
+}
+strong{
+    color: red;
+}
+.two li{
+    display:inline-block;
+}
+ a{
+    text-decoration: none;
+    
+    margin-right: 10px ;
+    color: var(--praymary-color);
+}
+.one{
+    margin-top: 36px;
+    display: flex;
+    background-color:var(--secondary-color);
+   color: var(--praymary-color);
+   justify-content:space-between;
+   padding: 50px;
+}
+.three{
+    background-color: tomato;
+    border-radius: 3px;
+    height: 30px;
+    width: 70px;
+    text-align: center;
+   margin: 10px 0px 10px 100px;
+   padding-top: 9px;
+  
+}
+#three{
+   
+    color:var(--praymary-color);
+    
+    
+    
+}
+
+
+.templeat{
+    background-color: var(--praymary-color);
+    
+}
+
+
+
+button{
+    border: 2px solid tomato;
+    color: tomato;
+    border-radius: 2px;
+    padding: 5px 20px;
+}
+button:hover{
+    background-color: tomato;
+    color:var(--praymary-color);
+}
+.flex{
+    display: flex;
+    
+}
+.mashud{
+    margin: 10px;
+    color: var(--secondary-color);
+}
+#two{
+    margin-left: 13%;
+    
+}
+-------------------------------------------------------------js-------------------------------------------------------------js-----------------------------------------
+var moon = document.getElementById("moon");
+moon.onclick =function(){
+    document.body.classList.toggle("drack-thim");
+}
+						*
+**
+***
+****
+*****
+******
+*******
+********
+*********
+**********
+***********
+************
+*************
+**************
+***************
+****************
+*****************
+******************
+*******************
+********************
+*********************
+**********************
+***********************
+************************
+*************************
+**************************
+***************************
+****************************
+*****************************
+******************************
+*******************************
+********************************
+*********************************
+**********************************
+***********************************
+************************************
+*************************************
+**************************************
+***************************************
+****************************************
+*****************************************
+******************************************
+*******************************************
+********************************************
+*********************************************
+**********************************************
+***********************************************
+************************************************
+*************************************************
+**************************************************
+***************************************************
+****************************************************
+*****************************************************
+******************************************************
+*******************************************************
+********************************************************
+*********************************************************
+**********************************************************
+***********************************************************
+************************************************************
+*************************************************************
+**************************************************************
+***************************************************************
+****************************************************************
+*****************************************************************
+******************************************************************
+*******************************************************************
+********************************************************************
+*********************************************************************
+**********************************************************************
+***********************************************************************
+************************************************************************
+*************************************************************************
+**************************************************************************
+***************************************************************************
+****************************************************************************
+*****************************************************************************
+******************************************************************************
+*******************************************************************************
+********************************************************************************
+*********************************************************************************
+**********************************************************************************
+***********************************************************************************
+************************************************************************************
+*************************************************************************************
+**************************************************************************************
+***************************************************************************************
+****************************************************************************************
+*****************************************************************************************
+******************************************************************************************
+*******************************************************************************************
+********************************************************************************************
+*********************************************************************************************
+**********************************************************************************************
+***********************************************************************************************
+************************************************************************************************
+*************************************************************************************************
+**************************************************************************************************
+***************************************************************************************************
+****************************************************************************************************
+
