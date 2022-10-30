@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Maksudur7
+maksudur7
 https://maksudur7.github.io/maksudur7/
