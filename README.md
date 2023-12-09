@@ -9,4 +9,6 @@
 🤔 **I'm trying to explore new topic**
 
 
+## 📈 Current Stats
+
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=maksudur7)](https://git.io/streak-stats)
