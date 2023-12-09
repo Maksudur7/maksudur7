@@ -1,2 +1,1 @@
-maksudur7
-https://maksudur7.github.io/maksudur7/
+![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
