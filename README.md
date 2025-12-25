@@ -27,7 +27,7 @@ I am a results-driven Full Stack Developer (MERN / Next.js) with professional ex
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Frontend** | JavaScript (ES6+), TypeScript, React.js, Next.js, Tailwind CSS, D3.js, Material UI, HTML5, CSS3 |
-| **Backend** |Node.js, Express.js, PostgreSQL, MongoDB  |
+| **Backend** |Node.js, Express.js, MongoDB  |
 | **Database & ORM** | PostgreSQL, MySQL, MongoDB, Prisma, SQL |
 | **Authentication & Cloud** | Firebase, Auth0, JWT |
 | **Tools & Version Control** | Git, GitHub, CMD, Figma, Postman |
