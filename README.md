@@ -18,7 +18,7 @@
 ---
 
 # 🚀 Hi, I'm Maksudur Rahaman | Full Stack Developer
-I am a results-driven **Full Stack Developer (MERN / Next.js)** with professional experience in building scalable web applications. I specialize in **Clean Code**, **Performance Optimization**, and **AI Integration**. Currently based in Bangladesh, I work with global teams to deliver high-quality software solutions.
+I am a results-driven Full Stack Developer (MERN / Next.js) with professional experience in building scalable web applications through Clean Code and AI Integration. I specialize in engineering high-performance frontend interfaces and robust backend architectures using Nest.js, Prisma, and MySQL. Currently based in Bangladesh, I collaborate with global teams to develop seamless, full-stack web experiences that solve complex user problems.
 
 ---
 
