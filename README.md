@@ -51,7 +51,7 @@ Apr 2024 – Aug 2024
 - Optimized performance & improved maintainability  
 - Collaborated in agile workflow using GitHub  
 
-### FrontEnd Developer (Intern)  
+### FrontEnd Developer (Full Time)  
 **DeloNext** | Bangladesh 
 Mar 2026 – Continue  
 
