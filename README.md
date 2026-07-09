@@ -42,7 +42,7 @@ I specialize in high-performance frontend engineering and robust backend systems
 
 ## 💼 Professional Experience
 
-### FrontEnd Developer (Intern)  
+### Mern Stack Developer (Intern)  
 **Airepro Solution Pvt Ltd** | Uttar Pradesh, India  
 Apr 2024 – Aug 2024  
 
@@ -64,13 +64,13 @@ Mar 2026 – Continue
 Tech: MERN + OpenAI API  
 AI-powered quiz generation & task management system.
 
-### 🔹 IONE – IT Evaluation Platform  
-Tech: MERN + Real-time Chat + Payment Gateway  
-Role-based dashboards with structured evaluation workflows.
+### 🔹 Mr. Converter – File Convertion system  
+Tech: Next.js and othen convertion libeary
+Fully seo optimize you can search mrconverter in google.
 
-### 🔹 College Booking System  
-Tech: MERN + Social Authentication  
-Online admission & research tracking system.
+### 🔹 Online smart printing system
+Tech: Next.js , Nest.js Prisma, PostgraSql, Neondb 
+Online printing system .
 
 ---
 
