@@ -54,23 +54,35 @@ Apr 2024 – Aug 2024
 ### FrontEnd Developer (Full Time)  
 **DeloNext** | Bangladesh 
 Mar 2026 – Continue  
-
+- Designed, built, and maintained highly responsive and user-friendly web applications.
+- Translated UI/UX design wireframes into high-quality, pixel-perfect, and reusable code.
+- Integrated RESTful APIs and collaborated closely with backend developers to ensure seamless data flow.
+- Optimized web applications for maximum speed, scalability, and cross-browser compatibility.
+- Maintained code quality through debugging, code reviews, and following modern frontend best practices.
 
 ---
 
 ## 🌟 Featured Projects
 
-### 🔹 StudentHub – AI Academic Planner  
-Tech: MERN + OpenAI API  
-AI-powered quiz generation & task management system.
-
 ### 🔹 Mr. Converter – File Convertion system  
 Tech: Next.js and othen convertion libeary
 Fully seo optimize you can search mrconverter in google.
+[mrconverter](https://mr-converter.com)
 
 ### 🔹 Online smart printing system
 Tech: Next.js , Nest.js Prisma, PostgraSql, Neondb 
 Online printing system .
+[printkiosk](https://printer-client.vercel.app)
+
+### 🔹 NGV Video striming system
+Tech: Next.js , Nest.js Prisma, PostgraSql, Neondb 
+Online printing system .
+[NGV](https://ngv-black.vercel.app)
+
+### 🔹 StudentHub – AI Academic Planner  
+Tech: MERN + OpenAI API  
+AI-powered quiz generation & task management system.
+[StudentHub](https://studyhub-f26cc.web.app)
 
 ---
 
